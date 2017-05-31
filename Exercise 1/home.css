@@ -1,0 +1,19 @@
+header,footer,aside,section{
+    
+    width: 200px;
+    height: 200px;
+    border: solid 3px black;
+    
+    
+}
+
+#wrap{
+    
+    
+    width: 100%;
+}
+
+body {
+    
+    margin: 0;
+}
